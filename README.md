@@ -13,7 +13,7 @@ An interactive and beginner-friendly web project that allows users to change the
 ## 🖼️ Preview
 
 ![Color Switcher Preview](/Screenshot.png)  
-*(Optional: Add a screenshot named `preview.png` in your repo root folder)*
+
 
 ## 🛠️ Technologies Used
 
